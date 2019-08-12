@@ -1,0 +1,23 @@
+name,img_path,label,split
+10463955714940876846996.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\10463955714940876846996.jpg,paper boat,train
+104639557149408768462589.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\104639557149408768462589.jpg,paper boat,valid
+104639557149408768461770.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\104639557149408768461770.jpg,paper boat,valid
+131970552025572834232300.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\131970552025572834232300.jpg,gondola,train
+86695163226120708722230.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\86695163226120708722230.jpg,paper boat,train
+161459613648216624321937.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\161459613648216624321937.jpg,paper boat,train
+54101944834362907492317.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\54101944834362907492317.jpg,ferry boat,valid
+9076033932186033052519.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\9076033932186033052519.jpg,ferry boat,train
+50194692505658327692551.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\50194692505658327692551.jpg,buoy,valid
+92977957496213532612182.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\92977957496213532612182.jpg,ferry boat,train
+42749900892024046532005.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\42749900892024046532005.jpg,buoy,valid
+52944080508082007791939.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\52944080508082007791939.jpg,buoy,train
+149312972561776204612882.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\149312972561776204612882.jpg,buoy,train
+108354651517302760042403.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\108354651517302760042403.jpg,buoy,train
+161203249050036924382386.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\161203249050036924382386.jpg,paper boat,valid
+44062059258043197082074.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\44062059258043197082074.jpg,ferry boat,valid
+17111260590808403353178.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\17111260590808403353178.jpg,gondola,valid
+146871704081276111731460.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\146871704081276111731460.jpg,gondola,train
+46138470823049949292424.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\46138470823049949292424.jpg,ferry boat,train
+39871583545004560552433.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\39871583545004560552433.jpg,gondola,train
+118856504142131085372711.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\118856504142131085372711.jpg,gondola,valid
+173408109062462241652088.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\173408109062462241652088.jpg,paper boat,train

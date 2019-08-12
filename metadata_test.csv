@@ -1,0 +1,5 @@
+name,img_path,label,split
+10463955714940876846996.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\10463955714940876846996.jpg,paper boat,train
+131970552025572834232300.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\131970552025572834232300.jpg,gondola,train
+54101944834362907492317.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\54101944834362907492317.jpg,ferry boat,valid
+50194692505658327692551.jpg,C:\Users\san_j\Documents\boats classifier\aicolab_project\new_images\50194692505658327692551.jpg,buoy,valid
